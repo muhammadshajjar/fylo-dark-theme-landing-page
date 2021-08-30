@@ -156,7 +156,7 @@ Intro section
 }
 
 .intro__title {
-    margin-top: 1.687rem;
+    margin-top: 1.5rem;
     font-size: 1.5rem;
     font-family: var(--ff-raleway);
 }
@@ -216,11 +216,11 @@ Features Section
 }
 
 .features__item {
-    margin-bottom: 5rem;
+    margin-bottom: 4rem;
 }
 
 .features__title {
-    margin-top: 1.875rem;
+    margin-top: 1.6rem;
     font-size: 1.1875rem;
     font-family: var(--ff-raleway);
 }
@@ -306,8 +306,8 @@ Testimonials
     -moz-border-radius: 0.5rem;
     -ms-border-radius: 0.5rem;
     -o-border-radius: 0.5rem;
-    -webkit-box-shadow: 8px 8px 8px 0px rgba(1, 4, 14, 0.739);
-    box-shadow: 8px 8px 8px 0px rgba(1, 4, 14, 0.739);
+    -webkit-box-shadow: 8px 8px 8px 0px rgba(4, 7, 19, 0.575);
+    box-shadow: 8px 8px 8px 0px rgba(4, 7, 19, 0.575);
 }
 
 .quote__text {
@@ -643,12 +643,12 @@ Attribution
         max-width: 24.125rem;
     }
     .features__title {
-        font-size: 1.25rem;
+        font-size: 1.2rem;
         margin-bottom: 0;
     }
     .features__disc {
         font-size: 0.9375rem;
-        margin-top: 0.6875rem;
+        margin-top: 0.45rem;
     }
     .features__icon {
         height: 5rem;
@@ -734,7 +734,7 @@ Attribution
         max-width: 49.25rem;
     }
     .intro__title {
-        font-size: 2.5rem;
+        font-size: 2.45rem;
         line-height: 1.4;
     }
     .intro__disc {
@@ -760,8 +760,8 @@ Attribution
     }
     .testimonials {
         padding: 0 8.4375rem;
-        margin-top: 11.0625rem;
-        margin-bottom: 3.125rem;
+        margin-top: 10rem;
+        margin-bottom: 2.85rem;
     }
     .logo,
     .footer__logo {
